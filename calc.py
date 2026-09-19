@@ -42,7 +42,7 @@ def calculator():
         if operation == "add":
             print(f"Result: {a} + {b} = {add(a, b)}\n")
         elif operation == "subtraction":
-            print(f"Result: {a} - {b} = {subtract(a, b)}\n")
+            print(f"Result: {a} - {b} = {subtraction(a, b)}\n")
         elif operation == "multiply":
             print(f"Result: {a} × {b} = {multiply(a, b)}\n")
         elif operation == "divide":
