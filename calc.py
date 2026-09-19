@@ -47,5 +47,6 @@ def calculator():
             print(f"Result: {a} × {b} = {multiply(a, b)}\n")
         elif operation == "divide":
             print(f"Result: {a} ÷ {b} = {divide(a, b)}\n")
+            #hihih
 
 calculator()
